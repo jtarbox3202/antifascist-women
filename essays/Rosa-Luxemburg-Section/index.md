@@ -1,10 +1,10 @@
 ---
 title: "Rosa Luxemburg"
 layout: scrollstory
-header-image: images/figure_1.jpg
-thumbnail: images/figure_1.jpg
+header-image: Rosa_Lexemburg_Flowers.jpg
+thumbnail: Rosa_Lexemburg_Flowers.jpg
 position: 1
-summary: A biography of an anti-fascist woman in the early 20th century.
+summary: German revolutionary woman who acted shortly following World War One.
 ---
 
 # Biography 1
