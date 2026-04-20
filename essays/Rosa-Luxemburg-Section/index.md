@@ -1,8 +1,8 @@
 ---
 title: "Rosa Luxemburg"
 layout: scrollstory
-header-image: "Rosa-Luxemburg-Flowers.jpg"
-thumbnail: "Bean_fmf.avif"
+header-image: "/assets/images/Rosa-Luxemburg-Flowers.jpg"
+thumbnail: "/assets/images/Bean_fmf.avif"
 position: 4
 summary: German revolutionary woman who acted shortly following World War One.
 ---
