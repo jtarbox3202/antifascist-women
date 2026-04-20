@@ -3,11 +3,11 @@ title: "Rosa Luxemburg"
 layout: scrollstory
 header-image: Rosa_Lexemburg_Flowers.jpg
 thumbnail: Rosa_Lexemburg_Flowers.jpg
-position: 1
+position: 4
 summary: German revolutionary woman who acted shortly following World War One.
 ---
 
-# Biography 1
+# Biography
 
 Rosa Luxemburg was a Polish-German communist who through her thought, writings, and leadership was a hugely influential figure in the anti-capitalist German mythos.
 
