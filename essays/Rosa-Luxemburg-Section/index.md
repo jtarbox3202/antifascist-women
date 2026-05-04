@@ -7,11 +7,13 @@ position: 4
 summary: German revolutionary woman who acted shortly following World War One.
 ---
 
-# Biography
+# Marxism and Antifascism
 
-Rosa Luxemburg was a Polish-German communist who through her thought, writings, and leadership was a hugely influential figure in the anti-capitalist German mythos.
+To define antifascism, you must first define fascism; fascism is the promotion of militarism and nationalism to assert the supremacy of the state over notably class. A key way in which many fascist societies are formed is the backing of business interests to maintain relevance and authority. Antifascism in its very name is an ideology built out of a reaction to fascism, and one sect of this broader movement is that of the Marxists. 
 
-The story of how this plant became the defining ingredient of Southwestern cuisine is the story of climate, conquest, adaptation, and an entire region's relationship to heat—both literal and cultural.
+Marxists in stark contrast to the fascists, place the supremacy of class over that of state. The Marxist fights for the complete abolition of the capitalist system, which is the system that often supports the fascist and their rise to power. 
+
+Marxism, in fact, predates fascism with many notable authors writing evolving Marxist “theory” prior to, in concurrence to, and following the heyday of fascism. One such author who predated the rise of fascism but was very notable for her contributions to the Marxist “canon” was named Rosa Luxemburg. 
 
 ## Wild Origins and Sacred Uses
 
