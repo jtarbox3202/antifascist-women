@@ -24,7 +24,7 @@ During her years in high school, she was known for being rebellious and eventual
 
 Her family was rather interlinked with Germany and German culture with her father and brothers studying in the then empire as well as her mother being involved in German friendly literature groups. This family make up led to her knowing Polish, Russian, Hebrew, and German. 
 
-Her rebellious streak and her affinity for the burgeoning Marxist movement in Poland eventually drew the ire of the Russian authorities and she escaped. She eventually headed to Zurich to expand her intellectual opportunities and experience the heart of international socialist debate. 
+Her rebellious streak and her affinity for the burgeoning Marxist movement in Poland eventually drew the ire of the Russian authorities and she escaped. She then in 1889 headed to Zurich to expand her intellectual opportunities and experience the heart of international socialist debate. 
 {% endcapture %}
 
 {% include images/figure-wrap.html
