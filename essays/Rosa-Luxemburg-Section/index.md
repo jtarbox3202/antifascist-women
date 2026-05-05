@@ -58,7 +58,7 @@ When New Mexico became a U.S. state in 1912, one of its first instincts was to a
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="images/carousel_1.jpg"
+  image-path="chains.png"
   image-position="right"
   image-width="45%"
   caption="The iconic red chile ristras of Northern New Mexico—strands of dried chiles hung to cure and age."
@@ -83,7 +83,7 @@ But there's also a renaissance. Heirloom chile varieties are being preserved and
 
 The carousel below shows the diversity of modern chile culture:
 
-{% assign images_list = "images/carousel_1.jpg,images/carousel_2.jpg,images/carousel_3.jpg" | split: ',' %}
+{% assign images_list = "images/rosa_luxemburg_flowers.jpg,images/young_rosa.png,images/chains.png" | split: ',' %}
 {% include images/carousel.html id="chile-types" images=images_list %}
 
 **The varieties tell a story:**
