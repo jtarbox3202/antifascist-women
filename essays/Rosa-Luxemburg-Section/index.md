@@ -26,7 +26,7 @@ Her family was rather interlinked with Germany and German culture with her fathe
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="images/young_rosa.jpg"
+  image-path="images/young_rosa.png"
   image-position="left"
   image-width="48%"
   caption="Rosa Luxemburg at age twelve."
