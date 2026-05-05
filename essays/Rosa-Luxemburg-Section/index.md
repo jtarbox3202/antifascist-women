@@ -15,12 +15,16 @@ Marxists in stark contrast to the fascists, place the supremacy of class over th
 
 Marxism, in fact, predates fascism with many notable authors writing evolving Marxist “theory” prior to, in concurrence to, and following the heyday of fascism. One such author who predated the rise of fascism but was very notable for her contributions to the Marxist “canon” was named Rosa Luxemburg. 
 
-## Wild Origins and Sacred Uses
+## The Early Life of an Intellectual
 
 {% capture chile_origins_text %}
-Archaeological evidence suggests that wild chiles were used by Mesoamerican peoples for thousands of years before domestication. Unlike staple crops like maize or beans (which were also domesticated), chiles were initially valued for medicinal and ceremonial purposes, not just food.
+Rosa Luxemburg was born in Russian occupied Poland in 1871 to a middle-class Jewish family and spent much of her adolescence in Warsaw. In 1884 she won a prestigious scholarship and went to the highest-regarded high school in the city.  
 
-The Aztecs called them *chilli*—a word that would travel the world. They appeared in codices as sacred plants, used in rituals and as offerings. But they were also used in cooking, in medicine, as currency. Chiles were woven into the economic and spiritual fabric of pre-Columbian civilizations.
+During her years in high school, she was known for being rebellious and eventually began to study socialism. She would go on to participate in a movement called the Second Proletariat where in which she would advance her knowledge and understanding of Marxism. 
+
+Her family was rather interlinked with Germany and German culture with her father and brothers studying in the then empire as well as her mother being involved in German friendly literature groups. This family make up led to her knowing Polish, Russian, Hebrew, and German. 
+
+Her rebellious streak and her affinity for the burgeoning Marxist movement in Poland eventually drew the ire of the Russian authorities and she escaped. She eventually headed to Zurich to expand her intellectual opportunities and experience the heart of international socialist debate. 
 {% endcapture %}
 
 {% include images/figure-wrap.html
