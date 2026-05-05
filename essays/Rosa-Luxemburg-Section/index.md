@@ -57,8 +57,8 @@ Red versus green became almost a political and cultural statement. Families had 
 When New Mexico became a U.S. state in 1912, one of its first instincts was to assert its uniqueness through food. Chile festivals emerged. Chile-growing competitions began. The chile became a symbol of regional pride—fiercer and more protective than almost any other ingredient anywhere.
 {% endcapture %}
 
-{% include images/chains.png
-  image-path="chains.png"
+{% include images/figure-wrap.html
+  image-path="images/carousel_1.jpg"
   image-position="right"
   image-width="45%"
   caption="The iconic red chile ristras of Northern New Mexico—strands of dried chiles hung to cure and age."
