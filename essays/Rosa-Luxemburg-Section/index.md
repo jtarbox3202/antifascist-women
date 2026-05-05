@@ -22,9 +22,7 @@ Rosa Luxemburg was born in Russian occupied Poland in 1871 to a middle-class Jew
 
 During her years in high school, she was known for being rebellious and eventually began to study socialism. She would go on to participate in a movement called the Second Proletariat where in which she would advance her knowledge and understanding of Marxism. 
 
-Her family was rather interlinked with Germany and German culture with her father and brothers studying in the then empire as well as her mother being involved in German friendly literature groups. This family make up led to her knowing Polish, Russian, Hebrew, and German. 
-
-Her rebellious streak and her affinity for the burgeoning Marxist movement in Poland eventually drew the ire of the Russian authorities and she escaped. She then in 1889 headed to Zurich to expand her intellectual opportunities and experience the heart of international socialist debate. 
+Her family was rather interlinked with Germany and German culture with her father and brothers studying in the then empire as well as her mother being involved in German friendly literature groups. This family make up led to her knowing Polish, Russian, Hebrew, and German.  
 {% endcapture %}
 
 {% include images/figure-wrap.html
@@ -35,9 +33,9 @@ Her rebellious streak and her affinity for the burgeoning Marxist movement in Po
   text=chile_origins_text
 %}
 
-{% include typography/pullquote.html text="\"When Spanish conquistadors arrived and encountered chiles for the first time, they didn't know what they'd found: the key ingredient that would reshape global cuisine. They just tasted heat and assumed they were finding something like black pepper.\"" %}
+{% include typography/pullquote.html text="\"Luxemburg would have been in the company of socialists, who were well versed across a range of Marxist and socialist literatures and well practised in the organisational tactics of resistance.\"" %}
 
-When Spanish conquistadors arrived in the 16th century, they encountered chiles and assumed they were a kind of pepper—similar to the peppercorns that had driven medieval trade routes and wars. This mistake—this linguistic confusion—would matter enormously.
+Her rebellious streak and her affinity for the burgeoning Marxist movement in Poland eventually drew the ire of the Russian authorities and she escaped. She then in 1889 headed to Zurich to expand her intellectual opportunities and experience the heart of international socialist debate.
 
 
 ## The Global Circulation
