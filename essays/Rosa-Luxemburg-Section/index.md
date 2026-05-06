@@ -67,9 +67,6 @@ In 1902 we see her skills as an author begin to reemerge beyond that of editing 
 
 
 ## Splitting the Party
-
-{% include typography/pullquote.html text="\"The heat of a chile isn't just a flavor sensation. It's a physical experience that changes how we perceive food, how we gather, how we bond. Sharing hot food creates a kind of intimacy that bland food never could.\"" %}
-
 In 1905 the Jena Conference was held by the SPD to determine party policy; one such policy that was discussed and decided to be a last resort was that of general strikes. This move essentially placed the power of the strike into the hands of the Party rather than the union. The divide between the union moderate and party radical wings of the SPD began to show its true colors. 
 
 The declaration at Jena that general strikes would be on the table was considered a radicalist victory; however, the fate of the party would be decided the following year in Mannheim. This new conference did not invite the radical wing to be present, and even withheld the decisions made. This meeting essentially liberated the unions and curtailed the party. 
@@ -78,6 +75,8 @@ The trend of the collapsing unity of the SPD continued in 1907 when at the Socia
 
 
 ## Modern Variations and Challenges
+
+{% include typography/pullquote.html text="\"Violated, dishonored, wading in blood, dripping filth – there stands bourgeois society. This is it [in reality]. Not all spic and span and moral, with pretense to culture, philosophy, ethics, order, peace, and the rule of law – but the ravening beast, the witches’ sabbath of anarchy, a plague to culture and humanity. Thus it reveals itself in its true, its naked form.\"" %}
 
 Today, New Mexican chiles face challenges. Climate change is shifting growing seasons. Industrial agriculture has made cheaper, flavorless chiles available everywhere, undercutting local farmers. Younger generations are moving away from rural areas where chiles have been grown for generations.
 
