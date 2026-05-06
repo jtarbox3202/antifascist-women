@@ -74,37 +74,22 @@ The declaration at Jena that general strikes would be on the table was considere
 The trend of the collapsing unity of the SPD continued in 1907 when at the Socialist International Conference in Stuttgart held in August, Luxemburg alongside Lenin advocated the radical position. Eventually the radical parties had won the argument presented at the Conference; however, they were isolated among the moderate wings of the ever more conservative SPD. This continued in September when the now anti-militarist radicals were ruthlessly attacked by the militarist moderates. Following this split, Luxemburg took time to draw back and take stock for whatever might come next.
 
 
-## Modern Variations and Challenges
+## World War
 
 {% include typography/pullquote.html text="\"Violated, dishonored, wading in blood, dripping filth – there stands bourgeois society. This is it [in reality]. Not all spic and span and moral, with pretense to culture, philosophy, ethics, order, peace, and the rule of law – but the ravening beast, the witches’ sabbath of anarchy, a plague to culture and humanity. Thus it reveals itself in its true, its naked form.\"" %}
 
-Today, New Mexican chiles face challenges. Climate change is shifting growing seasons. Industrial agriculture has made cheaper, flavorless chiles available everywhere, undercutting local farmers. Younger generations are moving away from rural areas where chiles have been grown for generations.
+On the 4th of August 1914, the First World War as we think of it today began; so too on August 4th did the SPD authorize war credits to the dismay of Luxemburg and the anti-militarists. Following this action, Luxemburg continued to agitate and argue against the war; but was ultimately arrested in February 1915. 
 
-But there's also a renaissance. Heirloom chile varieties are being preserved and celebrated. New restaurants are treating chiles with the seriousness of a wine vintage—specific growing regions, specific varieties, specific preparation methods.
-
-The carousel below shows the diversity of modern chile culture:
-
-{% assign images_list = "images/rosa_luxemburg_flowers.jpg,images/young_rosa.png,images/chains.png" | split: ',' %}
-{% include images/carousel.html id="chile-types" images=images_list %}
-
-**The varieties tell a story:**
-- Pueblo chiles: small, early, adapted to high elevations
-- Spanish varieties: brought by colonists, adapted over centuries
-- Hybrid modern varieties: bred for consistency and market appeal
-- Heirloom preservation varieties: grown specifically to maintain genetic diversity
-
-Each represents a different moment in the chile's journey from wild plant to cultural icon.
+During her time in prison, Luxemburg wrote the Junius Pamphlet, which would go on to be the basis of the “International Group” of which she was a founding member following her release and subsequent rearrest. This new group would comprise another notable figure in one Karl Liebknecht. 
 
 
-## The Future of Southwest Identity
+## Class War
 
-As the Southwest changes—becoming more urban, more diverse, more connected to global food systems—what happens to the chile? Will it remain a marker of regional identity, or become just another ingredient?
+Come November 1918 the war was over, and both Liebknecht and Luxemburg would be freed from their cells, though still shackled by society. Both of these figures quickly and to the disdain of the now governing SPD continued to rail against the prison that was capitalism. The new republic repeatedly undertook actions to hamper the International Group which due to this split from the SPD and founded the Spartacus League and the Communist Party of Germany (KPD). 
 
-The answer might be both. Chiles have always adapted. They adapted to every continent, every climate, every cuisine that adopted them. They adapted from wild plants to cultivated varieties to industrial agriculture to heirloom preservation. They've been spice, currency, medicine, ritual object, and comfort food.
+It was then from January 5-12 that Berlin experienced the hope of revolution and the jackboot of counter revolution. This revolutionary movement was spearheaded by Liebknecht, and though the ultimate goal of Luxemburg was indeed revolution; it was done in her mind too early. This can indeed be seen by the presence of both federal troops and the government-sponsored paramilitary called the Freikorps. 
 
-Maybe that adaptability is the real story. Not the origin in Mexico or the spread through the world or the obsession in New Mexico, but the fact that a plant can be shaped and reshaped by human culture while still remaining fundamentally itself.
-
-The heat remains. The flavor remains. The chile endures.
+January 14th: Order Reigns in Berlin, January 15th: The arrest of Luxemburg and Liebknecht and summary execution of the authors of revolution. 
 
 ---
 
