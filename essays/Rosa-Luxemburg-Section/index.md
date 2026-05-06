@@ -38,13 +38,15 @@ Her family was rather interlinked with Germany and German culture with her fathe
 Her rebellious streak and her affinity for the burgeoning Marxist movement in Poland eventually drew the ire of the Russian authorities leading to her fleeing Poland. She then in 1889 headed to Zurich to expand her intellectual opportunities and experience the heart of international socialist debate.
 
 
-## The Global Circulation
+## Zurich and the Second International
 
-The Spanish brought chiles back to Europe, from Europe to Asia, and eventually chiles spread around the world. Within two centuries of Columbus, chiles were growing in India, Hungary, Korea, Thailand—places that now consider them indigenous, essential, defining.
+Zurich in 1889 was a central hub of the global socialist movement, in part because of the number of emigres to the city. However, Luxemburg in her moving to the city sought not just comrades, but also further education. 
 
-This is one of history's greatest ironies: the cuisines we think of as authentically Asian, Hungarian, or Indian all depend on a plant from the Americas. Today, more chiles are consumed in Asia than anywhere else on Earth, yet hardly anyone thinks of chiles as "Asian."
+Zurich was one of the few places not just on the Eurasian continent, but the entire world to offer university education to women. During her time in the Swiss city, she managed to earn a PhD in economics with her dissertation pertaining to economic development in Poland. 
 
-The Southwest, however, kept them close. When Spanish settlers began colonizing New Mexico in the late 1500s, they brought cultivated chile varieties with them. These adapted to the high desert climate, the intense sun, the seasonal rains. Over centuries, New Mexico developed its own distinctive chile varieties.
+This basis in economics made her distinctly qualified to speak on the economic theory that is Marxism. The socialist movement at this time was incredibly localized, and she met figures that would go on to influence not just her, but the world. Some of these people were Kollontai, Lenin Jogiches, and the Luebeck couple. 
+
+While Luxemburg indeed made many friends, she also began to encounter ideological differences. One such group was the Polish Socialist Party which she opposed on the basis of seeking a unified front between Polish and Russian workers rather than Polish separatism. She also led a delegation at the Fourth Congress of the Second International in London in 1897. 
 
 
 ## The New Mexican Obsession
