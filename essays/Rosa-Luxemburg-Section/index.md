@@ -74,7 +74,7 @@ In 1905 the Jena Conference was held by the SPD to determine party policy; one s
 
 The declaration at Jena that general strikes would be on the table was considered a radicalist victory; however, the fate of the party would be decided the following year in Mannheim. This new conference did not invite the radical wing to be present, and even withheld the decisions made. This meeting essentially liberated the unions and curtailed the party. 
 
-The trend of the collapsing unity of the SPD continued in 1907 when at the Socialist International Conference in Stuttgart held in August, Luxemburg alongside Lenin advocated the radical position. Eventually the radical parties had won the argument presented at the Conference; however, they were isolated among the moderate wings of the ever more conservative SPD. This continued in September when the now anti-militarist radicals were ruthlessly attacked by the militarist moderates. 
+The trend of the collapsing unity of the SPD continued in 1907 when at the Socialist International Conference in Stuttgart held in August, Luxemburg alongside Lenin advocated the radical position. Eventually the radical parties had won the argument presented at the Conference; however, they were isolated among the moderate wings of the ever more conservative SPD. This continued in September when the now anti-militarist radicals were ruthlessly attacked by the militarist moderates. Following this split, Luxemburg took time to draw back and take stock for whatever might come next.
 
 
 ## Modern Variations and Challenges
