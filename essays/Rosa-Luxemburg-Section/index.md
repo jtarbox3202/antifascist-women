@@ -49,14 +49,12 @@ This basis in economics made her distinctly qualified to speak on the economic t
 While Luxemburg indeed made many friends, she also began to encounter ideological differences. One such group was the Polish Socialist Party which she opposed on the basis of seeking a unified front between Polish and Russian workers rather than Polish separatism. She also led a delegation at the Fourth Congress of the Second International in London in 1897. 
 
 
-## The New Mexican Obsession
+## The Early Days of Germany
 
 {% capture chile_nm_text %}
-By the 18th and 19th centuries, chiles were so central to New Mexican cuisine that they weren't just a spice—they were an identity marker. You could tell where someone was from by how they prepared chiles, what variety they grew, when they harvested.
+Luxemburg arrived first in Berlin in 1898 but quickly volunteered in Upper Silesia which had a large Polish population. Her time in Silesia both heightened her confidence as well as showed to the higher ups within the Social Democratic Party (SPD) that she was a skilled orator and could be a useful asset. 
 
-Red versus green became almost a political and cultural statement. Families had chile-growing traditions stretching back generations. Towns developed reputations for particular varieties. The annual chile harvest was (and still is) treated with ceremonial importance.
-
-When New Mexico became a U.S. state in 1912, one of its first instincts was to assert its uniqueness through food. Chile festivals emerged. Chile-growing competitions began. The chile became a symbol of regional pride—fiercer and more protective than almost any other ingredient anywhere.
+In 1902 we see her skills as an author begin to reemerge beyond that of editing newspaper articles when she wrote a scathing review regarding a Belgian general strike. The piece was titled A Tactical Question, and one of its primary critiques was that of the capitulation on women's suffrage and the failure of other labor leaders to properly support the action. 
 {% endcapture %}
 
 {% include images/figure-wrap.html
