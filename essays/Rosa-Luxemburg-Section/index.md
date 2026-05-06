@@ -61,7 +61,7 @@ In 1902 we see her skills as an author begin to reemerge beyond that of editing 
   image-path="images/chains.png"
   image-position="right"
   image-width="45%"
-  caption="The iconic red chile ristras of Northern New Mexico—strands of dried chiles hung to cure and age."
+  caption="Rosa Luxemburg was always and forever a member of the radical wing, and until the day she died advocated for revolution."
   text=chile_nm_text
 %}
 
@@ -93,4 +93,11 @@ January 14th: Order Reigns in Berlin, January 15th: The arrest of Luxemburg and 
 
 ---
 
-**Further exploration:** Taste different chile varieties if you can—fresh, roasted, dried. Visit a chile festival if you're in the Southwest during harvest season. Ask family members about their chile traditions. The story of chiles is also the story of regional identity, of cultural pride, and of how food carries history in its flavor.
+**Bibligraphy:** 
+Council on Foreign Relations. “What Does Fascism Really Mean?: What is Fascism?.” Council on Foreign Relations. October 31, 2024. Education.cfr.org/learn/learning-journey/what-does-fascism-really-mean/what-is-fascism. 
+
+Luxemburg, Rosa. The Junius Pamphlet: The Crisis of German Social Democracy. Translated by Dave Hollis. (Illegally Published, 1916), chpt I, www.marxists.org/archive/luxemburg/1915/junius/ch01.htm. 
+
+Nixon, Jon. Rosa Luxemburg and the Struggle for Democratic Renewal. (Pluto Press, 2018), ebookcentral.proquest.com/lib/unm/reader.action?docID=5391111&c=RVBVQg&ppg=3. 
+
+Nettl, J. P.. Rosa Luxemburg. (Oxford University Press, 1966), www.fulcrum.org/epubs/k3569718k?locale=en#page=1. 
