@@ -110,9 +110,3 @@ The heat remains. The flavor remains. The chile endures.
 ---
 
 **Further exploration:** Taste different chile varieties if you can—fresh, roasted, dried. Visit a chile festival if you're in the Southwest during harvest season. Ask family members about their chile traditions. The story of chiles is also the story of regional identity, of cultural pride, and of how food carries history in its flavor.
-
-
-
-
-
-On the 4th of August 1914, the First World War as we think of it today began; so too on August 4th did the SPD authorize war credits to the dismay of Luxemburg and the anti-militarists. 
