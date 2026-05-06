@@ -66,13 +66,15 @@ In 1902 we see her skills as an author begin to reemerge beyond that of editing 
 %}
 
 
-## The Chemistry of Heat and Culture
+## Splitting the Party
 
 {% include typography/pullquote.html text="\"The heat of a chile isn't just a flavor sensation. It's a physical experience that changes how we perceive food, how we gather, how we bond. Sharing hot food creates a kind of intimacy that bland food never could.\"" %}
 
-What makes chiles remarkable isn't just their flavor, but their heat—the capsaicin that creates that burning sensation. This isn't taste in the traditional sense; it's pain. We've evolved to eat chiles despite the pain, even to crave it.
+In 1905 the Jena Conference was held by the SPD to determine party policy; one such policy that was discussed and decided to be a last resort was that of general strikes. This move essentially placed the power of the strike into the hands of the Party rather than the union. The divide between the union moderate and party radical wings of the SPD began to show its true colors. 
 
-There's psychology in this. The shared experience of eating something hot—the sweating, the laughing, the communal endurance—creates bonds. Chile-eating contests, chile-eating challenges, families bonding over who can handle the hottest salsa: this is social behavior built on a plant that literally tests your limits.
+The declaration at Jena that general strikes would be on the table was considered a radicalist victory; however, the fate of the party would be decided the following year in Mannheim. This new conference did not invite the radical wing to be present, and even withheld the decisions made. This meeting essentially liberated the unions and curtailed the party. 
+
+The trend of the collapsing unity of the SPD continued in 1907 when at the Socialist International Conference in Stuttgart held in August, Luxemburg alongside Lenin advocated the radical position. Eventually the radical parties had won the argument presented at the Conference; however, they were isolated among the moderate wings of the ever more conservative SPD. This continued in September when the now anti-militarist radicals were ruthlessly attacked by the militarist moderates. 
 
 
 ## Modern Variations and Challenges
